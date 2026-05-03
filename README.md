@@ -14,7 +14,7 @@ Players are matched only with another player connected to the same difficulty po
 
 Open this project in Android Studio and run `MyServer/src/main/java/com/example/myserver/MyClass.java`.
 
-You can also run it from the project root:
+More simply, run it from the project root and keep Android Studio focused on the Android client:
 
 ```bash
 ./gradlew :MyServer:run
@@ -25,4 +25,3 @@ On Windows:
 ```bat
 gradlew.bat :MyServer:run
 ```
-
